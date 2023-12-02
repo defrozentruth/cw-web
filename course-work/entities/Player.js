@@ -37,11 +37,11 @@ class Player extends Entity {
 
     draw() {
         spriteManager.drawSprite(c, this, this.position.x, this.position.y)
-        c.fillStyle = 'rgba(0, 255, 0, 0.5)'
-        c.fillRect(this.position.x, this.position.y, this.width, this.height)
-        c.fillStyle = 'rgba(0, 0, 255, 0.5)'
-        c.fillRect(this.hitbox.position.x, this.hitbox.position.y, this.hitbox.width, this.hitbox.height)
-        if (this.currentAnimation.finished) {
+        // c.fillStyle = 'rgba(0, 255, 0, 0.5)'
+        // c.fillRect(this.position.x, this.position.y, this.width, this.height)
+        // c.fillStyle = 'rgba(0, 0, 255, 0.5)'
+        // c.fillRect(this.hitbox.position.x, this.hitbox.position.y, this.hitbox.width, this.hitbox.height)
+            if (this.currentAnimation.finished) {
             this.switchAnimation(
                 this.direction === 'right' ? 'idleRight' : 'idleLeft'
             )

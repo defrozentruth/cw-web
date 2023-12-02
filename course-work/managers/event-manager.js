@@ -22,8 +22,9 @@ class EventManager {
         if (this.preventInput) return
         switch (event.key) {
             case 'w':
-                if (gameManager.player.velocity.y === 0)
+                if (gameManager.player.velocity.y === 0){
                     gameManager.player.velocity.y = -21
+                }
                 break
             case 'a':
                 this.keys.a.pressed = true

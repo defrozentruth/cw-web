@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>The Game</title>
+  <link rel="stylesheet" href="game.css" />
+  <link
+          href="https://fonts.googleapis.com/css?family=Press+Start+2P"
+          rel="stylesheet"
+  />
+</head>
+<body>
+<h1 class="game-header">King and Pigs</h1>
+<div class="container">
+  <div class="canvas-container"><canvas width="1920" height="1080"></canvas></div>
+  <div class="top-header">
+    <div id="playerId">Игрок:</div>
+    <div id="levelId">Количество жизней:</div>
+    <div id="scoreId">Счет:</div>
+  </div>
+</div>
+
+<script src="/entities/Entity.js"></script>
+<script src="/entities/Player.js"></script>
+<script src="/entities/Enemy.js"></script>
+<script src="/entities/Heal.js"></script>
+<script src="/entities/Key.js"></script>
+<script src="/entities/Chest.js"></script>
+<script src="/entities/Factory.js"></script>
+<script src="/entities/collision.js"></script>
+<script src="/managers/game-manager.js"></script>
+<script src="/managers/event-manager.js"></script>
+<script src="/managers/physic-manager.js"></script>
+<script src="/managers/sprite-manager.js"></script>
+<script src="/managers/map-manager.js"></script>
+<script src="/managers/utils.js"></script>
+<script src="index.js"></script>
+</body>
+</html>

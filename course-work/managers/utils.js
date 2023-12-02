@@ -39,7 +39,7 @@ function printHist() {
 }
 
 function restart() {
-    window.location.href = 'https://localhost/'
+    window.location.href = 'https://localhost/level1/index.html'
 }
 
 setData = () => {
@@ -87,10 +87,6 @@ Array.prototype.createObjectsFrom2D = function () {
                         y: y * 32
                     }
                 })
-
-                if ([16, 17, 18, 19, 20, 264, 265, 266, 267].includes(symbol))
-                    block.height = 14
-
                 objects.push(block)
             }
         })
@@ -116,49 +112,49 @@ const animation = {
     PLAYER: {
         idleRight: {
             frameRate: 5,
-            frameBuffer: 5,
+            frameBuffer: 10,
             loop: true,
-            imageSrc: 'Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword r/Idle Sword 01.png'
+            imageSrc: 'Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword r/Idle Sword 04.png'
         },
         idleLeft: {
             frameRate: 5,
-            frameBuffer: 5,
+            frameBuffer: 10,
             loop: true,
             imageSrc: 'Captain Clown Nose/Captain Clown Nose with Sword/idle l/Idle Sword 01.png'
         },
         runRight: {
             frameRate: 6,
-            frameBuffer: 5,
+            frameBuffer: 12,
             loop: true,
             imageSrc: 'Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword r/Run Sword 01.png'
         },
         runLeft: {
             frameRate: 6,
-            frameBuffer: 5,
+            frameBuffer: 12,
             loop: true,
             imageSrc: 'Captain Clown Nose/Captain Clown Nose with Sword/run l/Run Sword 01.png'
         },
         attackRight: {
             frameRate: 3,
-            frameBuffer: 3,
+            frameBuffer: 12,
             loop: false,
             imageSrc: 'Captain Clown Nose/Captain Clown Nose with Sword/16-Attack 2 r/Attack 2 01.png'
         },
         attackLeft: {
             frameRate: 3,
-            frameBuffer: 3,
+            frameBuffer: 12,
             loop: false,
             imageSrc: 'Captain Clown Nose/Captain Clown Nose with Sword/attack l/Attack 2 01.png'
         },
         hitRight: {
             frameRate: 4,
-            frameBuffer: 4,
+            frameBuffer: 12,
             loop: false,
             imageSrc: 'Captain Clown Nose/Captain Clown Nose with Sword/14-Hit Sword r/Hit Sword 01.png'
         },
         hitLeft: {
             frameRate: 4,
-            frameBuffer: 4,
+            frameBuffer: 12,
             loop: false,
             imageSrc: 'Captain Clown Nose/Captain Clown Nose with Sword/hit l/Hit Sword 01.png'
         }
@@ -166,57 +162,57 @@ const animation = {
     ENEMY:{
         idleRight: {
             frameRate: 8,
-            frameBuffer: 8,
+            frameBuffer: 16,
             loop: true,
             imageSrc: 'Fierce Tooth/idle r/Idle 01.png'
         },
         idleLeft: {
             frameRate: 8,
-            frameBuffer: 8,
+            frameBuffer: 16,
             loop: true,
             imageSrc: 'Fierce Tooth/01-Idle l/Idle 01.png'
         },
         runRight: {
             frameRate: 6,
-            frameBuffer: 6,
+            frameBuffer: 12,
             loop: true,
             imageSrc: 'Fierce Tooth/run r/Run 01.png'
         },
         runLeft: {
             frameRate: 6,
-            frameBuffer: 6,
+            frameBuffer: 12,
             loop: true,
             imageSrc: 'Fierce Tooth/02-Run l/Run 01.png'
         },
         attackRight: {
             frameRate: 5,
-            frameBuffer: 5,
+            frameBuffer: 10,
             loop: false,
             imageSrc: 'Fierce Tooth/attack r/Attack 01.png'
         },
         attackLeft: {
             frameRate: 5,
-            frameBuffer: 5,
+            frameBuffer: 10,
             loop: false,
             imageSrc: 'Fierce Tooth/07-Attack l/Attack 01.png'
         },
         hitRight: {
             frameRate: 4,
-            frameBuffer: 4,
+            frameBuffer: 12,
             loop: false,
-            imageSrc: 'Fierce Tooth/dead r/Dead Hit 01.png'
+            imageSrc: "Fierce Tooth/08-Hit l/Hit 01.png"
         },
         hitLeft: {
             frameRate: 4,
-            frameBuffer: 4,
+            frameBuffer: 12,
             loop: false,
-            imageSrc: 'Fierce Tooth/09-Dead Hit l/Dead Hit 01.png'
+            imageSrc: "Fierce Tooth/08-Hit l/Hit 01.png"
         }
     },
     HEAL:{
         idle:{
             frameRate: 7,
-            frameBuffer: 7,
+            frameBuffer: 14,
             loop: true,
             imageSrc: 'potion/01.png'
         }
@@ -224,7 +220,7 @@ const animation = {
     KEY:{
         idle:{
             frameRate: 8,
-            frameBuffer: 8,
+            frameBuffer: 16,
             loop: true,
             imageSrc: 'Chest Key/1.png'
         }

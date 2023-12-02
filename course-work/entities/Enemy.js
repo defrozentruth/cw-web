@@ -11,8 +11,8 @@ class Enemy extends Entity {
         }
 
         this.hitboxOffset = {
-            xOffset: 5,
-            yOffset: 0
+            xOffset: 6,
+            yOffset: 4
         }
 
         this.hitbox = {
@@ -20,8 +20,8 @@ class Enemy extends Entity {
                 x: this.position.x + this.hitboxOffset.xOffset,
                 y: this.position.y + this.hitboxOffset.yOffset
             },
-            width: 27,
-            height: 27
+            width: 30,
+            height: 24
         }
 
         this.animations = animation.ENEMY
@@ -38,10 +38,8 @@ class Enemy extends Entity {
 
     draw() {
         spriteManager.drawSprite(c, this, this.position.x, this.position.y)
-        c.fillStyle = 'rgba(0, 255, 0, 0.5)'
-        c.fillRect(this.position.x, this.position.y, this.width, this.height)
-        c.fillStyle = 'rgba(0, 0, 255, 0.5)'
-        c.fillRect(this.hitbox.position.x, this.hitbox.position.y, this.hitbox.width, this.hitbox.height)
+        // c.fillStyle = 'rgba(255, 0, 255, 0.5)'
+        // c.fillRect(this.hitbox.position.x, this.hitbox.position.y, this.hitbox.width, this.hitbox.height)
         if (this.currentAnimation.finished) {
             this.switchAnimation(
                 this.direction === 'right' ? 'idleRight' : 'idleLeft'
@@ -51,7 +49,10 @@ class Enemy extends Entity {
 
     onTouch(obj) {
         if (obj instanceof Player) {
-            this.switchAnimation('hit')
+            if (this.direction === 'right')
+                this.switchAnimation('hitRight')
+            else
+                this.switchAnimation('hitLeft')
             this.lifetimes--
         }
         if (this.lifetimes === 0) {
@@ -61,7 +62,6 @@ class Enemy extends Entity {
     }
 
     kill() {
-        if (this.name === 'tooth') gameManager.player.canOut = true
         gameManager.kill(this)
     }
 
@@ -81,7 +81,7 @@ class Enemy extends Entity {
         // Нормализуем вектор, чтобы получить единичный вектор направления
         const length = Math.sqrt(directionX ** 2 + directionY ** 2)
 
-        if (this.name === 'tooth') {
+        if (this.name === 'tooth' ? length > 60 : length > 100) {
             this.switchAnimation(
                 this.direction === 'right' ? 'idleRight' : 'idleLeft'
             )

@@ -64,10 +64,12 @@ class SpriteManager {
                 const cropbox = {
                     position: {
                         x:
-                            sprite.x,
+                            sprite.x +
+                            (sprite.w / obj.currentAnimation.frameRate) *
+                            (obj.frames.currentFrame % obj.currentAnimation.frameRate),
                         y: sprite.y
                     },
-                    width: sprite.w,
+                    width: sprite.w / obj.currentAnimation.frameRate,
                     height: sprite.h
                 }
 
@@ -81,10 +83,8 @@ class SpriteManager {
                     y,
                     cropbox.width,
                     sprite.h
-
                 )
-                c.fillStyle = 'rgba(0, 0, 255, 0.5)'
-
+                this.updateFrames(obj)
             }
         }
     }

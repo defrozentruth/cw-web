@@ -32,10 +32,10 @@ class Heal extends Entity {
     }
 
     draw() {
-        c.fillStyle = 'rgba(0, 255, 0, 0.5)'
-        c.fillRect(this.position.x, this.position.y, this.width, this.height)
-        c.fillStyle = 'rgba(0, 0, 255, 0.5)'
-        c.fillRect(this.hitbox.position.x, this.hitbox.position.y, this.hitbox.width, this.hitbox.height)
+        // c.fillStyle = 'rgba(0, 255, 0, 0.5)'
+        // c.fillRect(this.position.x, this.position.y, this.width, this.height)
+        // c.fillStyle = 'rgba(0, 0, 255, 0.5)'
+        // c.fillRect(this.hitbox.position.x, this.hitbox.position.y, this.hitbox.width, this.hitbox.height)
         spriteManager.drawSprite(c, this, this.position.x, this.position.y)
     }
 

@@ -156,9 +156,7 @@ class MapManager {
                             gameManager.entities.push(obj)
 
                             if (obj.name === 'cptn') {
-                                console.log("player setup")
                                 gameManager.initPlayer(obj)
-                                console.log("complete")
                             }
                         } catch (ex) {
                             console.log(`Error while creating: [${e.gid}] ${e.type}, ${ex}`)

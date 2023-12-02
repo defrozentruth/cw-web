@@ -39,6 +39,7 @@ class GameManager {
         this.entities.forEach(e => {
             try {
                 if (e.name === 'tooth') e.move(this.player)
+                e.draw()
                 e.update()
             } catch (ex) {
                 console.log(ex)
@@ -61,7 +62,7 @@ class GameManager {
 
         mapManager.draw(c)
         this.draw(c)
-        mapManager.collision.forEach(elem => elem.draw())
+        //mapManager.collision.forEach(elem => elem.draw())
 
     }
 

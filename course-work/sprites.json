@@ -1,0 +1,1020 @@
+{"frames": [
+
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/07-Dead Hit r/Dead Hit 01.png",
+	"frame": {"x":414,"y":60,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/07-Dead Hit r/Dead Hit 02.png",
+	"frame": {"x":478,"y":60,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/07-Dead Hit r/Dead Hit 03.png",
+	"frame": {"x":542,"y":60,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/07-Dead Hit r/Dead Hit 04.png",
+	"frame": {"x":606,"y":60,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword r/Idle Sword 01.png",
+	"frame": {"x":670,"y":60,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword r/Idle Sword 02.png",
+	"frame": {"x":734,"y":60,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword r/Idle Sword 03.png",
+	"frame": {"x":798,"y":60,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword r/Idle Sword 04.png",
+	"frame": {"x":862,"y":60,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword r/Idle Sword 05.png",
+	"frame": {"x":0,"y":100,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword r/Run Sword 01.png",
+	"frame": {"x":64,"y":100,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword r/Run Sword 02.png",
+	"frame": {"x":128,"y":100,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword r/Run Sword 03.png",
+	"frame": {"x":192,"y":100,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword r/Run Sword 04.png",
+	"frame": {"x":256,"y":100,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword r/Run Sword 05.png",
+	"frame": {"x":320,"y":100,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword r/Run Sword 06.png",
+	"frame": {"x":384,"y":100,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/14-Hit Sword r/Hit Sword 01.png",
+	"frame": {"x":448,"y":100,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/14-Hit Sword r/Hit Sword 02.png",
+	"frame": {"x":512,"y":100,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/14-Hit Sword r/Hit Sword 03.png",
+	"frame": {"x":576,"y":100,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/14-Hit Sword r/Hit Sword 04.png",
+	"frame": {"x":640,"y":100,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/16-Attack 2 r/Attack 2 01.png",
+	"frame": {"x":704,"y":100,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/16-Attack 2 r/Attack 2 02.png",
+	"frame": {"x":768,"y":100,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/16-Attack 2 r/Attack 2 03.png",
+	"frame": {"x":832,"y":100,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/attack l/Attack 2 01.png",
+	"frame": {"x":896,"y":100,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/attack l/Attack 2 02.png",
+	"frame": {"x":0,"y":140,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/attack l/Attack 2 03.png",
+	"frame": {"x":64,"y":140,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/dead l/Dead Hit 01.png",
+	"frame": {"x":128,"y":140,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/dead l/Dead Hit 02.png",
+	"frame": {"x":192,"y":140,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/dead l/Dead Hit 03.png",
+	"frame": {"x":256,"y":140,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/dead l/Dead Hit 04.png",
+	"frame": {"x":320,"y":140,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/hit l/Hit Sword 01.png",
+	"frame": {"x":384,"y":140,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/hit l/Hit Sword 02.png",
+	"frame": {"x":448,"y":140,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/hit l/Hit Sword 03.png",
+	"frame": {"x":512,"y":140,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/hit l/Hit Sword 04.png",
+	"frame": {"x":576,"y":140,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/idle l/Idle Sword 01.png",
+	"frame": {"x":640,"y":140,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/idle l/Idle Sword 02.png",
+	"frame": {"x":704,"y":140,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/idle l/Idle Sword 03.png",
+	"frame": {"x":768,"y":140,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/idle l/Idle Sword 04.png",
+	"frame": {"x":832,"y":140,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/idle l/Idle Sword 05.png",
+	"frame": {"x":896,"y":140,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/run l/Run Sword 01.png",
+	"frame": {"x":0,"y":180,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/run l/Run Sword 02.png",
+	"frame": {"x":64,"y":180,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/run l/Run Sword 03.png",
+	"frame": {"x":128,"y":180,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/run l/Run Sword 04.png",
+	"frame": {"x":192,"y":180,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/run l/Run Sword 05.png",
+	"frame": {"x":256,"y":180,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Captain Clown Nose/Captain Clown Nose with Sword/run l/Run Sword 06.png",
+	"frame": {"x":320,"y":180,"w":64,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":40},
+	"sourceSize": {"w":64,"h":40}
+},
+{
+	"filename": "Chest Key/1.png",
+	"frame": {"x":91,"y":0,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24}
+},
+{
+	"filename": "Chest Key/2.png",
+	"frame": {"x":115,"y":0,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24}
+},
+{
+	"filename": "Chest Key/3.png",
+	"frame": {"x":139,"y":0,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24}
+},
+{
+	"filename": "Chest Key/4.png",
+	"frame": {"x":163,"y":0,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24}
+},
+{
+	"filename": "Chest Key/5.png",
+	"frame": {"x":187,"y":0,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24}
+},
+{
+	"filename": "Chest Key/6.png",
+	"frame": {"x":211,"y":0,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24}
+},
+{
+	"filename": "Chest Key/7.png",
+	"frame": {"x":235,"y":0,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24}
+},
+{
+	"filename": "Chest Key/8.png",
+	"frame": {"x":259,"y":0,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24}
+},
+{
+	"filename": "chest/1.png",
+	"frame": {"x":238,"y":60,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "Fierce Tooth/01-Idle l/Idle 01.png",
+	"frame": {"x":283,"y":0,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/01-Idle l/Idle 02.png",
+	"frame": {"x":317,"y":0,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/01-Idle l/Idle 03.png",
+	"frame": {"x":351,"y":0,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/01-Idle l/Idle 04.png",
+	"frame": {"x":385,"y":0,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/01-Idle l/Idle 05.png",
+	"frame": {"x":419,"y":0,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/01-Idle l/Idle 06.png",
+	"frame": {"x":453,"y":0,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/01-Idle l/Idle 07.png",
+	"frame": {"x":487,"y":0,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/01-Idle l/Idle 08.png",
+	"frame": {"x":521,"y":0,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/02-Run l/Run 01.png",
+	"frame": {"x":555,"y":0,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/02-Run l/Run 02.png",
+	"frame": {"x":589,"y":0,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/02-Run l/Run 03.png",
+	"frame": {"x":623,"y":0,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/02-Run l/Run 04.png",
+	"frame": {"x":657,"y":0,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/02-Run l/Run 05.png",
+	"frame": {"x":691,"y":0,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/02-Run l/Run 06.png",
+	"frame": {"x":725,"y":0,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/07-Attack l/Attack 01.png",
+	"frame": {"x":759,"y":0,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/07-Attack l/Attack 02.png",
+	"frame": {"x":793,"y":0,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/07-Attack l/Attack 03.png",
+	"frame": {"x":827,"y":0,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/07-Attack l/Attack 04.png",
+	"frame": {"x":861,"y":0,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/07-Attack l/Attack 05.png",
+	"frame": {"x":895,"y":0,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/08-Hit l/Hit 01.png",
+	"frame": {"x":0,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/08-Hit l/Hit 02.png",
+	"frame": {"x":34,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/08-Hit l/Hit 03.png",
+	"frame": {"x":68,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/08-Hit l/Hit 04.png",
+	"frame": {"x":102,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/09-Dead Hit l/Dead Hit 01.png",
+	"frame": {"x":136,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/09-Dead Hit l/Dead Hit 02.png",
+	"frame": {"x":170,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/09-Dead Hit l/Dead Hit 03.png",
+	"frame": {"x":204,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/09-Dead Hit l/Dead Hit 04.png",
+	"frame": {"x":238,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/attack r/Attack 01.png",
+	"frame": {"x":272,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/attack r/Attack 02.png",
+	"frame": {"x":306,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/attack r/Attack 03.png",
+	"frame": {"x":340,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/attack r/Attack 04.png",
+	"frame": {"x":374,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/attack r/Attack 05.png",
+	"frame": {"x":408,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/dead r/Dead Hit 01.png",
+	"frame": {"x":442,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/dead r/Dead Hit 02.png",
+	"frame": {"x":476,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/dead r/Dead Hit 03.png",
+	"frame": {"x":510,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/dead r/Dead Hit 04.png",
+	"frame": {"x":544,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/hit r/Hit 01.png",
+	"frame": {"x":578,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/hit r/Hit 02.png",
+	"frame": {"x":612,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/hit r/Hit 03.png",
+	"frame": {"x":646,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/hit r/Hit 04.png",
+	"frame": {"x":680,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/idle r/Idle 01.png",
+	"frame": {"x":714,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/idle r/Idle 02.png",
+	"frame": {"x":748,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/idle r/Idle 03.png",
+	"frame": {"x":782,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/idle r/Idle 04.png",
+	"frame": {"x":816,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/idle r/Idle 05.png",
+	"frame": {"x":850,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/idle r/Idle 06.png",
+	"frame": {"x":884,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/idle r/Idle 07.png",
+	"frame": {"x":918,"y":30,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/idle r/Idle 08.png",
+	"frame": {"x":0,"y":60,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/run r/Run 01.png",
+	"frame": {"x":34,"y":60,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/run r/Run 02.png",
+	"frame": {"x":68,"y":60,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/run r/Run 03.png",
+	"frame": {"x":102,"y":60,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/run r/Run 04.png",
+	"frame": {"x":136,"y":60,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/run r/Run 05.png",
+	"frame": {"x":170,"y":60,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "Fierce Tooth/run r/Run 06.png",
+	"frame": {"x":204,"y":60,"w":34,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":30},
+	"sourceSize": {"w":34,"h":30}
+},
+{
+	"filename": "island/Back Palm Tree Regular 01.png",
+	"frame": {"x":384,"y":180,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "island/BG Image.png",
+	"frame": {"x":578,"y":180,"w":384,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":128},
+	"sourceSize": {"w":384,"h":128}
+},
+{
+	"filename": "island/Flag 01.png",
+	"frame": {"x":544,"y":180,"w":34,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":93},
+	"sourceSize": {"w":34,"h":93}
+},
+{
+	"filename": "island/seashell.png",
+	"frame": {"x":366,"y":60,"w":48,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":38},
+	"sourceSize": {"w":48,"h":38}
+},
+{
+	"filename": "island/Terrain (32x32).png",
+	"frame": {"x":192,"y":308,"w":544,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":544,"h":160},
+	"sourceSize": {"w":544,"h":160}
+},
+{
+	"filename": "potion/01.png",
+	"frame": {"x":0,"y":0,"w":13,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":17},
+	"sourceSize": {"w":13,"h":17}
+},
+{
+	"filename": "potion/02.png",
+	"frame": {"x":13,"y":0,"w":13,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":17},
+	"sourceSize": {"w":13,"h":17}
+},
+{
+	"filename": "potion/03.png",
+	"frame": {"x":26,"y":0,"w":13,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":17},
+	"sourceSize": {"w":13,"h":17}
+},
+{
+	"filename": "potion/04.png",
+	"frame": {"x":39,"y":0,"w":13,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":17},
+	"sourceSize": {"w":13,"h":17}
+},
+{
+	"filename": "potion/05.png",
+	"frame": {"x":52,"y":0,"w":13,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":17},
+	"sourceSize": {"w":13,"h":17}
+},
+{
+	"filename": "potion/06.png",
+	"frame": {"x":65,"y":0,"w":13,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":17},
+	"sourceSize": {"w":13,"h":17}
+},
+{
+	"filename": "potion/07.png",
+	"frame": {"x":78,"y":0,"w":13,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":17},
+	"sourceSize": {"w":13,"h":17}
+},
+{
+	"filename": "ship/barrel1.png",
+	"frame": {"x":270,"y":60,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "ship/barrel2.png",
+	"frame": {"x":302,"y":60,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "ship/chain.png",
+	"frame": {"x":448,"y":180,"w":32,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":64},
+	"sourceSize": {"w":32,"h":64}
+},
+{
+	"filename": "ship/door1.png",
+	"frame": {"x":480,"y":180,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "ship/Platforms (32x32).png",
+	"frame": {"x":0,"y":308,"w":192,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":128},
+	"sourceSize": {"w":192,"h":128}
+},
+{
+	"filename": "ship/Terrain and Back Wall (32x32).png",
+	"frame": {"x":0,"y":468,"w":608,"h":416},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":608,"h":416},
+	"sourceSize": {"w":608,"h":416}
+},
+{
+	"filename": "ship/window1.png",
+	"frame": {"x":334,"y":60,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spritesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":962,"h":884},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6f066ae82b9d3ead5e6e45b4cd356da5:508ad4735649782ceaf0fd90dee7cdf5:86cfd122751a78902b46acecbbdcd268$"
+}
+}

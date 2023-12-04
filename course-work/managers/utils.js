@@ -136,14 +136,14 @@ const animation = {
         },
         attackRight: {
             frameRate: 3,
-            frameBuffer: 12,
-            loop: false,
+            frameBuffer: 10,
+            loop: true,
             imageSrc: 'Captain Clown Nose/Captain Clown Nose with Sword/16-Attack 2 r/Attack 2 01.png'
         },
         attackLeft: {
             frameRate: 3,
-            frameBuffer: 12,
-            loop: false,
+            frameBuffer: 10,
+            loop: true,
             imageSrc: 'Captain Clown Nose/Captain Clown Nose with Sword/attack l/Attack 2 01.png'
         },
         hitRight: {

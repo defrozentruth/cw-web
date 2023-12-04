@@ -15,7 +15,12 @@ class GameManager {
         this.got_key = false
         this.gameOverFlag = false
         this.lvl = 1
-        this.levels = ['../map1.json']
+        this.levels = ['../map1.json', '../map2.json']
+        this.true_ready = false
+        this.music = [
+            "../sound/background.mp3", "../sound/Bullet.wav", "../sound/Collectibles.wav",
+            "../sound/Hit.wav", "../sound/Jump.wav", "../sound/Steps.wav"
+        ];
     }
 
     initPlayer(obj) {
@@ -72,18 +77,25 @@ class GameManager {
 
     loadAll(ctx, lvl) {
         this.lvl = lvl
+        console.log('lvl:', this.lvl)
+        console.log(this.levels)
+        console.log(this.levels[this.lvl-1])
         mapManager.loadMap(this.levels[this.lvl - 1])
+        console.log('he')
         spriteManager.loadAtlas(
             '../sprites.json',
             '../spritesheet.png'
         )
-
+        soundManager.init()
+        soundManager.loadArray(this.music);
         mapManager.parseEntities()
         mapManager.draw(ctx)
+        soundManager.play("../sound/background.mp3", { volume: 0.5 });
 
     }
 
     play() {
+        console.log('start play')
         if (!gameManager.gameOverFlag) {
             window.requestAnimationFrame(gameManager.play)
             updateWorld()

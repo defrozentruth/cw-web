@@ -5,7 +5,7 @@ class MapManager {
         this.xCount = 0
         this.yCount = 0
         this.tSize = { x: 32, y: 32 }
-        this.mapSize = { x: 30, y: 20 }
+        this.mapSize = { x: 40, y: 20 }
         this.tilesets = []
         this.imgLoadCount = 0
         this.imgLoaded = false
@@ -13,7 +13,10 @@ class MapManager {
     }
 
     parseMap = tilesJSON => {
+        console.log('befr parse')
         this.mapData = JSON.parse(tilesJSON)
+        console.log(this.mapData)
+        console.log('parsed')
         this.xCount = this.mapData.width
         this.yCount = this.mapData.height
         this.tSize.x = this.mapData.tilewidth
@@ -27,11 +30,14 @@ class MapManager {
                 this.imgLoaded = true
             }
         }
+        let counter = 0;
 
         this.mapData.tilesets.forEach(t => {
             const img = new Image()
             img.onload = onLoadImage
             img.src = t.image
+            counter++
+            console.log(counter)
 
             const ts = {
                 firstgid: t.firstgid,
@@ -43,8 +49,10 @@ class MapManager {
 
             this.tilesets.push(ts)
         })
+        console.log('after')
 
         this.jsonLoaded = true
+        console.log(this.jsonLoaded)
     }
 
     draw = ctx => {
@@ -79,6 +87,7 @@ class MapManager {
                 })
             })
         }
+        gameManager.true_ready = true
     }
 
     getTile = tileIndex => {
@@ -107,14 +116,23 @@ class MapManager {
     }
 
     loadMap = path => {
-        const request = new XMLHttpRequest()
+        console.log('before request')
+        const request = new XMLHttpRequest();
         request.onreadystatechange = () => {
-            if (request.readyState === 4 && request.status === 200) {
-                this.parseMap(request.responseText)
+                if (request.readyState === 4 && request.status === 200) {
+                    console.log('parsing map')
+                    this.parseMap(request.responseText)
+                    console.log('map parsed')
+                    //gameManager.true_ready = true
+                }
+                console.log('endif')
             }
-        }
+        console.log('beffore req')
         request.open('GET', path, true)
+        console.log('before send')
         request.send()
+        console.log('after send')
+
     }
 
     parseEntities = () => {
@@ -123,7 +141,7 @@ class MapManager {
         } else {
             this.collision = this.mapData.layers
                 .filter(layer => layer.name === 'ground')[0]
-                .data.parse2D(gameManager.lvl === 1 ? 30 :20)
+                .data.parse2D(30)
                 .createObjectsFrom2D()
 
             this.mapData.layers.forEach(layer => {

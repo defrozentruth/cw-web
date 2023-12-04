@@ -24,6 +24,7 @@ class EventManager {
             case 'w':
                 if (gameManager.player.velocity.y === 0){
                     gameManager.player.velocity.y = -21
+                    soundManager.play("../sound/Jump.wav", {volume: 0.5})
                 }
                 break
             case 'a':

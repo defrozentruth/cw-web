@@ -66,6 +66,7 @@ class Player extends Entity {
             this.position.y
         )
         if (entity && entity instanceof Enemy) {
+            soundManager.play("../sound/Hit.wav", {volume: 0.5})
             entity.onTouch(this) // Допустим, что у врага есть метод takeDamage()
         }
     }
@@ -73,6 +74,7 @@ class Player extends Entity {
     onTouch(obj) {
         if (obj instanceof Enemy) {
             this.switchAnimation(this.direction === 'right' ? 'hitRight' : 'hitLeft')
+            soundManager.play("../sound/Hit.wav", {volume: 0.5})
             this.lifetimes--
         }
 

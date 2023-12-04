@@ -7,6 +7,7 @@ class SpriteManager {
     }
 
     loadAtlas(atlasJson, atlasImg) {
+        console.log('atlas')
         const request = new XMLHttpRequest()
         request.onreadystatechange = () => {
             if (request.readyState === 4 && request.status === 200) {

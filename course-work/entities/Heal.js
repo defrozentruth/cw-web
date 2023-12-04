@@ -49,6 +49,7 @@ class Heal extends Entity {
         if (entity !== null) {
             if (entity instanceof Player) {
                 entity.onTouch(this)
+                soundManager.play("../sound/Collectibles.wav", {volume: 0.5})
                 this.kill()
             }
         }
